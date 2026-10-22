@@ -1,0 +1,21 @@
+{
+  "layout_version": 1,
+  "nuthatch_version": "5.8.2",
+  "chain_id": 42161,
+  "data_identity": "494ce630fa704ee504e6cdfb8f732c66d585843face32fbbc6b7bf115a9b15c7",
+  "nid": "eeff8363e445ae42621374005365621492e01f6176b61a91232d29538dd59063",
+  "bundle_hash": "5b038a18f0ed4138fbf652b9e766f6f5e4e89081b2edd00b9d461032e0f0ba1a",
+  "sealed_through": 502095643,
+  "published_at": "2026-10-22T14:12:43Z",
+  "catalogue_sha256": "a9c25171a84df28e1503bf4d87f1b3f5afba7d5d6bb539e100b7294dcd38d2bf",
+  "schema_sha256": "97a7a3cf8067b3adda318f729d1baa08eccec854cdaaa0b375ca4cd52109aa18",
+  "tables": [
+    "gns__set_default_name",
+    "gns__subgraph_deprecated",
+    "gns__subgraph_metadata_updated",
+    "gns__subgraph_published",
+    "gns__subgraph_received_from_l1",
+    "gns__subgraph_upgraded",
+    "gns__subgraph_version_updated"
+  ]
+}
